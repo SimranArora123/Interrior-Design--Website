@@ -1,0 +1,31 @@
+.footer {
+  width: 100%;
+  display: block;
+  padding-top: 20%;
+  background: black;
+  padding: 10px 0;
+  color: #fff;
+  bottom: 0;
+    
+  }
+  .inner-footer{
+    margin: auto;
+    width: 95%;
+    padding: 30px 10px;
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    justify-content: center;
+  }
+  .inner-footer .footer h2{
+      padding-top: 3%;
+      font-family: 'Merienda One', cursive;
+    padding-top: 3%;
+  }
+  .inner-footer .footer p{
+      padding-top: 2%;
+      padding-bottom: 2%;
+    font-family: 'Playball', cursive;
+    
+  }
+  
